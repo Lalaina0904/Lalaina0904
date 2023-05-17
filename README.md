@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/M-Lalaina/M-Lalaina/blob/main/SpookyGhost.gif" width="35%" alt="banner"/>
+<img align="right" src="https://github.com/Lalaina0904/Lalaina0904/blob/main/SpookyGhost.gif" width="35%" alt="banner"/>
 
 #### Hi there 👋
 
@@ -37,12 +37,12 @@
 #### :fire: My Stats :
 
 <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Lalaina&theme=leafy&hide_border=true&background=EB545400&border=30A29F&stroke=30A29F&ring=30A29F&fire=30A29F&currStreakNum=30A29F&sideNums=3DD5D0&currStreakLabel=3DD5D0&sideLabels=D0D0D0&dates=30A29F" alt="GitHub Streak Stats"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=Lalaina0904&theme=leafy&hide_border=true&background=EB545400&border=30A29F&stroke=30A29F&ring=30A29F&fire=30A29F&currStreakNum=30A29F&sideNums=3DD5D0&currStreakLabel=3DD5D0&sideLabels=D0D0D0&dates=30A29F" alt="GitHub Streak Stats"/>
 </div>
 
 <div align=center>  
   <strong>
-      <img src='https://komarev.com/ghpvc/?username=m-lalaina&style=flat-square&color=1586A6'>
+      <img src='https://komarev.com/ghpvc/?username=Lalaina0904&style=flat-square&color=1586A6'>
   </strong> 
 </div>
 
@@ -50,7 +50,7 @@
 
 #### :rocket: Social links : 
 <div align="center">
-     <a href="https://www.facebook.com/lalaina.2002"><img src="https://github.com/M-Lalaina/M-Lalaina/blob/main/facebook.png" alt="facebook"></a>
-     <a href="https://twitter.com/mananjolalaina"><img src="https://github.com/M-Lalaina/M-Lalaina/blob/main/twitter.png" alt="twitter"></a>
-     <a href="https://www.linkedin.com/in/andriamiarozaka"><img src="https://github.com/M-Lalaina/M-Lalaina/blob/main/linkedin.png" alt="linkedin"></a>
+     <a href="https://www.facebook.com/lalaina.2002"><img src="https://github.com/Lalaina0904/Lalaina0904/blob/main/facebook.png" alt="facebook"></a>
+     <a href="https://twitter.com/mananjolalaina"><img src="https://github.com/Lalaina0904/Lalaina0904/blob/main/twitter.png" alt="twitter"></a>
+     <a href="https://www.linkedin.com/in/andriamiarozaka"><img src="https://github.com/Lalaina0904/Lalaina0904/blob/main/linkedin.png" alt="linkedin"></a>
 <span> 
