@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/Lalaina0904/Lalaina0904/blob/main/SpookyGhost.gif" width="35%" alt="banner"/>
 
-#### Hi there 👋
+#### Hi stranger! 👋
 
 <div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1586A6&width=435&lines=Welcome+to+my+github+page+!" /></div>
 
