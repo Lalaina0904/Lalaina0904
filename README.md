@@ -4,7 +4,7 @@
 
 <div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1586A6&width=435&lines=Welcome+to+my+github+page+!" /></div>
 
-#### I'm `Lalaina` , nice to meet you :blush: !
+#### I'm Lalaina , nice to meet you :blush: !
 
 #### I'm a passionate frontend developer and web designer from Madagascar :madagascar:.
 
@@ -42,7 +42,7 @@
 
 <div align=center>  
   <strong>
-      <img src='https://komarev.com/ghpvc/?username=Lalaina0904&style=flat-square&color=1586A6'>
+      <img src='https://komarev.com/ghpvc/?username=Lalaina0904&style=flat-square&color=blueviolet'>
   </strong> 
 </div>
 
