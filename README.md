@@ -58,4 +58,4 @@
 
 #### :snake: My GitHub History
 
-![Snake animation](https://github.com/Lalaina0904/Lalaina0904/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lalaina0904/Lalaina0904/blob/output/github-contribution-grid-snake.gif)
