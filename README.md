@@ -48,13 +48,14 @@
 
 ---
 
-#### :rocket: Social links : 
+#### :rocket: Social links :
+
 <div align="center">
      <a href="https://www.facebook.com/lalaina.lalaina00"><img src="https://github.com/Lalaina0904/Lalaina0904/blob/main/facebook.png" alt="facebook"></a>
      <a href="https://twitter.com/mananjolalaina"><img src="https://github.com/Lalaina0904/Lalaina0904/blob/main/twitter.png" alt="twitter"></a>
      <a href="https://www.linkedin.com/in/andriamiarozaka"><img src="https://github.com/Lalaina0904/Lalaina0904/blob/main/linkedin.png" alt="linkedin"></a>
-<span> 
+</div>
 
-#### 🚀My GitHub History
+#### My GitHub History
 
 ![Snake animation](https://github.com/Lalaina0904/Lalaina0904/blob/output/github-contribution-grid-snake.svg)
