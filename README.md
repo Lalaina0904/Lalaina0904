@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Lalaina0904/Lalaina0904/blob/main/SpookyGhost.gif" width="35%" alt="banner"/>
+<img align="right" src="/imgs/SpookyGhost.gif" width="35%" alt="banner"/>
 
 #### Hi stranger! 👋
 
