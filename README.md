@@ -56,6 +56,6 @@
      <a href="https://www.linkedin.com/in/andriamiarozaka"><img src="https://github.com/Lalaina0904/Lalaina0904/blob/main/linkedin.png" alt="linkedin"></a>
 </div>
 
-#### My GitHub History
+#### :snake: My GitHub History
 
 ![Snake animation](https://github.com/Lalaina0904/Lalaina0904/blob/output/github-contribution-grid-snake.svg)
