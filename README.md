@@ -54,7 +54,3 @@
      <a href="https://twitter.com/mananjolalaina"><img src="/imgs/twitter.png" alt="twitter"></a>
      <a href="https://www.linkedin.com/in/andriamiarozaka"><img src="/imgs/linkedin.png" alt="linkedin"></a>
 </div>
-
-#### :snake: My GitHub History
-
-![Snake gif](https://github.com/Lalaina0904/Lalaina0904/blob/output/github-contribution-grid-snake.gif)
