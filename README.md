@@ -11,7 +11,7 @@
 -   🌱 I’m currently learning **Backend Development && Graphic Design**
 
 -   💬 Ask me about **Frontend Development**
-- 
+-
 
 -   ⚡ Fun fact : **I'm just cool**
 
@@ -20,14 +20,15 @@
 #### :hammer_and_wrench: My Stacks & tools :
 
 <div align="center">
-     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5_version" width="100px"/>
-     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3_version" width="90px"/>
      <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=white" alt="JS_version" width="140px"/>
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="90px"/>
+     <img src="https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="next" width="100px"/>
      </br>
      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" width="80px"/>
-     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="100px"/>
+     <img src="https://img.shields.io/badge/tailwindcss-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=blue" alt="tailwind" width="80px"/>
+     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=000" alt="nodejs" width="100px"/>
      </br>
-     <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="linux"/>
+     <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=000" alt="linux"/>
      <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF" alt="windows"/>
 </div>
 
