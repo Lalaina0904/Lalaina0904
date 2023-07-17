@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="next" width="100px"/>
      </br>
      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" width="80px"/>
-     <img src="https://img.shields.io/badge/tailwindcss-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=blue" alt="tailwind" width="80px"/>
+     <img src="https://img.shields.io/badge/tailwindcss-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=blue" alt="tailwind" width="100px"/>
      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=000" alt="nodejs" width="100px"/>
      </br>
      <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=000" alt="linux"/>
