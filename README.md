@@ -32,6 +32,11 @@
      <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF" alt="windows"/>
 </div>
 
+<div align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="my_sql" width="30" height="30"/> 
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre_sql" width="30" height="30"/> 
+</div>
 ---
 
 #### :fire: My Stats :
