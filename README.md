@@ -42,6 +42,7 @@
       <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="30" height="30"/> 
       <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="30" height="30"/>
       </br>
+      </br>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="java" width="25" height="25"/> 
       <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="java" width="25" height="25"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="java" width="25" height="25"/> 
