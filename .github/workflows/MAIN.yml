@@ -1,16 +1,10 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Generate Snake
+name: main
 
 # Controls when the action will run. This action runs every 6 hours.
 
-on:
-    schedule:
-        # every 6 hours
-        - cron: "0 */6 * * *"
-
-    # This command allows us to run the Action automatically from the Actions tab.
-    workflow_dispatch:
+on: [push]
 
 # The sequence of runs in this workflow:
 jobs:
@@ -29,7 +23,7 @@ jobs:
               id: snake-gif
 
               with:
-                  github_user_name: ${{ github.repository_owner }}
+                  github_user_name: Lalaina0904
                   # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
                   outputs: |
                       dist/github-snake.svg
