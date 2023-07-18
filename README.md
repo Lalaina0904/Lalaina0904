@@ -11,7 +11,8 @@
 -   🌱 I’m currently learning **Backend Development && Graphic Design**
 
 -   💬 Ask me about **Frontend Development**
--
+
+-   📫 How to reach me **hei.lalaina.2@gmail.com**
 
 -   ⚡ Fun fact : **I'm just cool**
 
