@@ -6,8 +6,8 @@ name: Generate Snake
 
 on:
     schedule:
-        # every 12 hours
-        - cron: "0 */12 * * *"
+        # every 6 hours
+        - cron: "0 */6 * * *"
 
     # This command allows us to run the Action automatically from the Actions tab.
     workflow_dispatch:
@@ -17,16 +17,15 @@ jobs:
     # This workflow contains a single job called "build"
     build:
         # The type of runner that the job will run on
-        name: Jobs to update datas
         runs-on: ubuntu-latest
 
         # Steps represent a sequence of tasks that will be executed as part of the job
         steps:
             # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-            # - uses: actions/checkout@v2
+            - uses: actions/checkout@v2
 
             # Generates the snake
-            - uses: Platane/snk@v3
+            - uses: Platane/snk@master
               id: snake-gif
               with:
                   github_user_name: Lalaina0904
