@@ -73,7 +73,7 @@
      <a href="https://www.linkedin.com/in/andriamiarozaka"><img src="/imgs/linkedin.png" alt="linkedin"></a>
 </div>
 
-##
+## :snake: my github history
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lalaina0904/Lalaina0904/output/github-contribution-grid-snake-dark.svg" />
