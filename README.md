@@ -6,7 +6,7 @@
 
 <p>I'm Lalaina , nice to meet you :blush: !</p>
 
-#### I'm a passionate frontend developer and web designer from Madagascar :madagascar:.
+<p>I'm a passionate frontend developer and web designer from Madagascar :madagascar:.</p>
 
 -   🌱 I’m currently learning **Backend Development && Graphic Design**
 
@@ -18,7 +18,7 @@
 
 </br>
 
-#### :hammer_and_wrench: My Stacks & tools :
+<p>:hammer_and_wrench: My Stacks & tools : </p>
 
 <div align="center">
      <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=white" alt="JS_version" width="140px"/>
@@ -51,7 +51,7 @@
 
 ---
 
-#### :fire: My Stats :
+<p>:fire: My Stats :</p>
 
 <div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com?user=Lalaina0904&theme=leafy&hide_border=true&background=EB545400&border=30A29F&stroke=30A29F&ring=30A29F&fire=30A29F&currStreakNum=30A29F&sideNums=3DD5D0&currStreakLabel=3DD5D0&sideLabels=D0D0D0&dates=30A29F" alt="GitHub Streak Stats"/>
@@ -65,7 +65,7 @@
 
 ---
 
-#### :rocket: Social links :
+<p>:rocket: Social links :</p>
 
 <div align="center">
      <a href="https://www.facebook.com/lalaina.lalaina00"><img src="/imgs/facebook.png" alt="facebook"></a>
@@ -75,7 +75,7 @@
 
 ---
 
-#### :snake: my github history
+<p>:snake: my github history</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lalaina0904/Lalaina0904/output/github-contribution-grid-snake-dark.svg" />
