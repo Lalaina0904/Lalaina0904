@@ -1,10 +1,10 @@
 <img align="right" src="/imgs/SpookyGhost.gif" width="35%" alt="banner"/>
 
-#### Hi stranger! 👋
+<p>Hi stranger! 👋</p>
 
 <div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1586A6&width=435&lines=Welcome+to+my+github+page+!" /></div>
 
-#### I'm Lalaina , nice to meet you :blush: !
+<p>I'm Lalaina , nice to meet you :blush: !</p>
 
 #### I'm a passionate frontend developer and web designer from Madagascar :madagascar:.
 
