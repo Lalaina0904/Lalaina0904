@@ -53,24 +53,12 @@
 
 <p>:fire: My Stats :</p>
 
-<div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Lalaina0904&theme=leafy&hide_border=true&background=EB545400&border=30A29F&stroke=30A29F&ring=30A29F&fire=30A29F&currStreakNum=30A29F&sideNums=3DD5D0&currStreakLabel=3DD5D0&sideLabels=D0D0D0&dates=30A29F" alt="GitHub Streak Stats"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lalaina0904)](https://git.io/streak-stats)
 
 <div align=center>  
   <strong>
       <img src='https://komarev.com/ghpvc/?username=Lalaina0904&style=flat-square&color=blueviolet'>
   </strong> 
-</div>
-
----
-
-<p>:rocket: Social links :</p>
-
-<div align="center">
-     <a href="https://www.facebook.com/lalaina.lalaina00"><img src="/imgs/facebook.png" alt="facebook"></a>
-     <a href="https://twitter.com/mananjolalaina"><img src="/imgs/twitter.png" alt="twitter"></a>
-     <a href="https://www.linkedin.com/in/andriamiarozaka"><img src="/imgs/linkedin.png" alt="linkedin"></a>
 </div>
 
 ---
