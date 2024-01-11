@@ -50,8 +50,7 @@
 </div>
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lalaina0904)(https://streak-stats.demolab.com/?user=Lalaina0904)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lalaina0904)](https://git.io/streak-stats)
 
 <div align=center>  
   <strong>
@@ -61,7 +60,7 @@
 
 ---
 
-<p>:snake: my github history</p>
+<p>:snake:</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lalaina0904/Lalaina0904/output/github-contribution-grid-snake-dark.svg" />
