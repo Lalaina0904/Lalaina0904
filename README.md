@@ -51,9 +51,7 @@
 
 ---
 
-<p>:fire: My Stats :</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lalaina0904)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lalaina0904)]
 
 <div align=center>  
   <strong>
