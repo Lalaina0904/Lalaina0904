@@ -53,7 +53,11 @@
 
 <p>:fire: My Stats :</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lalaina0904)](https://git.io/streak-stats)
+<div align=center>
+     <strong>
+          <img src="https://streak-stats.demolab.com/?user=Lalaina0904">
+     </strong>
+</div>
 
 <div align=center>  
   <strong>
