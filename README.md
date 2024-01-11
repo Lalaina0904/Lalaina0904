@@ -51,7 +51,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lalaina0904)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lalaina0904)(https://streak-stats.demolab.com/?user=Lalaina0904)]
 
 <div align=center>  
   <strong>
