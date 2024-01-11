@@ -49,6 +49,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="java" width="25" height="25"/> 
 </div>
 
+</br>
+
 <div align=center>  
   <strong>
       <img src='https://komarev.com/ghpvc/?username=Lalaina0904&style=flat-square&color=blueviolet'>
